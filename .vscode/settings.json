@@ -1,0 +1,18 @@
+{
+  "cSpell.words": [
+    "chromagram",
+    "distplot",
+    "figsize",
+    "fontsize",
+    "librosa",
+    "ndarray",
+    "relplot",
+    "slom",
+    "sonographs",
+    "spectrogram",
+    "stft",
+    "STFT",
+    "waveshow"
+  ],
+  "remote.autoForwardPortsFallback": 0
+}
