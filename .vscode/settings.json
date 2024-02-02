@@ -14,5 +14,11 @@
     "STFT",
     "waveshow"
   ],
-  "remote.autoForwardPortsFallback": 0
+  "remote.autoForwardPortsFallback": 0,
+  "editor.mouseWheelScrollSensitivity": 1,
+  "editor.fastScrollSensitivity": 100,
+  "editor.smoothScrolling": true,
+  "editor.scrollBeyondLastColumn": 1,
+  "notebook.output.textLineLimit": 100,
+  "jupyter.interactiveWindow.codeLes.debugCommands": "jupyter.debugcontinue, jupyter.debugstop, jupyter.debugstepover"
 }
