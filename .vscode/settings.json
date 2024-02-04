@@ -1,18 +1,23 @@
 {
   "cSpell.words": [
     "chromagram",
+    "colorbar",
     "distplot",
     "figsize",
     "fontsize",
     "librosa",
     "ndarray",
+    "nrows",
     "relplot",
+    "sharex",
     "slom",
     "sonographs",
+    "specshow",
     "spectrogram",
     "stft",
     "STFT",
-    "waveshow"
+    "waveshow",
+    "ylabel"
   ],
   "remote.autoForwardPortsFallback": 0,
   "editor.mouseWheelScrollSensitivity": 1,
